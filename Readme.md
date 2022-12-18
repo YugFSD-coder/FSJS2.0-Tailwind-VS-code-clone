@@ -1,9 +1,9 @@
 # Tailwind-VS code-Clone
 
 ## Deployed URL - 
- [link]()
+ [tailwindcss-vscode-clone01.netlify.com](https://tailwindcss-vscode-clone01.netlify.app/)
 
  --- 
 
  ### Preview :
- ![output](./Output.png)
+ ![output](./VisualStudioClone/Output.png)
